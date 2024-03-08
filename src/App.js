@@ -12,10 +12,10 @@ function App() {
         <a
           className="App-link"
           href="https://reactjs.org"
-          target="_blank"
+          target="_blank" 
           rel="noopener noreferrer"
         >
-          Testing react app
+          Testing react app 
         </a>
       </header>
     </div>
